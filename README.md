@@ -17,6 +17,12 @@ NS Launcher replaces your Android TV home screen with a UI inspired by the Ninte
 - A bottom dock for quick access to Settings, Play Store, Gallery, Controllers, and About
 - Sound feedback on navigation, launch, and menus - just like the real thing
 
+## Screenshots:
+<img width="1920" height="1080" alt="Screenshot_20260621-200403" src="https://github.com/user-attachments/assets/9d5e7630-a96e-4146-ad99-465375fc54fa" />
+<img width="1920" height="1080" alt="Screenshot_20260621-200417" src="https://github.com/user-attachments/assets/ef862597-9258-4963-9de6-ba05d5354e3c" />
+<img width="1920" height="1080" alt="Screenshot_20260621-200423" src="https://github.com/user-attachments/assets/6a1d124c-25e0-432e-8963-d328bd866402" />
+<img width="1920" height="1080" alt="Screenshot_20260621-200434" src="https://github.com/user-attachments/assets/a38356b7-b407-4319-b642-dda348e4ea79" />
+
 ---
 
 ## Features
@@ -106,7 +112,7 @@ Built by **Zahidul Haque Tipu**
 
 Based on [FLauncher](https://github.com/etiess/flauncher) by Étienne Fesser - open-source Android TV launcher licensed under GPL v3.
 
-Sound effects sourced from Valve's Steam Deck UI audio pack.
+Sound effects sourced from Deckthemes Switch 2 Sounds pack. (https://deckthemes.com/packs/view?themeId=12b04b34-00c1-4600-8e71-eb0a77f47962)
 
 ---
 
