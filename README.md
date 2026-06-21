@@ -1,5 +1,6 @@
 # NS Launcher
-<img width="1280" height="720" alt="VideoSnapshot_20260621_024212" src="https://github.com/user-attachments/assets/acf927eb-d8d5-415f-93b6-87487769f883" />
+<img width="1920" height="1080" alt="Screenshot_20260621-201224" src="https://github.com/user-attachments/assets/dc96dd8e-b96e-4965-8bab-2f47916f2b5f" />
+
 
 A Nintendo Switch-style home screen launcher for Android TV - clean, fast, and built for the couch.
 
@@ -34,9 +35,8 @@ NS Launcher replaces your Android TV home screen with a UI inspired by the Ninte
 ## Requirements
 
 - Android TV device (Android 8.0+)
-- ADB access **or** the ability to sideload APKs via a file manager
 
-Tested on Fire TV and Chromecast with Google TV. Should work on any Android TV / Google TV device.
+Tested on Xiaomi MiBox 3 & 5. Should work on any Android TV / Google TV device.
 
 ---
 
