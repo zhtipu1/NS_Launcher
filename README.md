@@ -18,11 +18,13 @@ NS Launcher replaces your Android TV home screen with a UI inspired by the Ninte
 - Sound feedback on navigation, launch, and menus - just like the real thing
 
 ## Screenshots:
-<img width="1920" height="1080" alt="Screenshot_20260621-201224" src="https://github.com/user-attachments/assets/cff98ba7-6155-4276-8a6b-0987e5cd4bd9" />
-<img width="1920" height="1080" alt="Screenshot_1783909548" src="https://github.com/user-attachments/assets/1734cab3-b7de-4665-af1a-c4990e12118c" />
-<img width="1920" height="1080" alt="Screenshot_20260621-200417" src="https://github.com/user-attachments/assets/ef862597-9258-4963-9de6-ba05d5354e3c" />
-<img width="1920" height="1080" alt="Screenshot_20260621-200423" src="https://github.com/user-attachments/assets/6a1d124c-25e0-432e-8963-d328bd866402" />
-<img width="1920" height="1080" alt="Screenshot_20260621-200434" src="https://github.com/user-attachments/assets/a38356b7-b407-4319-b642-dda348e4ea79" />
+https://github.com/user-attachments/assets/a38739db-e751-4b5c-9e56-5f90e1863051
+
+<img width="1920" height="1080" alt="Screenshot_1783909548" src="https://github.com/user-attachments/assets/132c724d-7f17-4e08-b72b-623722d7dff7" />
+<img width="1920" height="1080" alt="untitled webm_20260713_092802 474" src="https://github.com/user-attachments/assets/3c6c6669-5d55-46d4-bbc7-c903b32c552c" />
+<img width="1920" height="1080" alt="untitled webm_20260713_092747 185" src="https://github.com/user-attachments/assets/b8f46be2-d8a8-49db-b14a-ee2641821273" />
+<img width="1920" height="1080" alt="untitled webm_20260713_092728 679" src="https://github.com/user-attachments/assets/fa825485-e996-4282-b80e-cb7008b133da" />
+<img width="1920" height="1080" alt="untitled webm_20260713_092731 839" src="https://github.com/user-attachments/assets/7b6f9a83-f29c-4a7c-a262-0fba245cd802" />
 
 ---
 
