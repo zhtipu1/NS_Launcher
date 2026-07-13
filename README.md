@@ -19,7 +19,7 @@ NS Launcher replaces your Android TV home screen with a UI inspired by the Ninte
 
 ## Screenshots:
 <img width="1920" height="1080" alt="Screenshot_20260621-201224" src="https://github.com/user-attachments/assets/cff98ba7-6155-4276-8a6b-0987e5cd4bd9" />
-<img width="1920" height="1080" alt="Screenshot_20260621-200403" src="https://github.com/user-attachments/assets/9d5e7630-a96e-4146-ad99-465375fc54fa" />
+<img width="1920" height="1080" alt="Screenshot_1783909548" src="https://github.com/user-attachments/assets/1734cab3-b7de-4665-af1a-c4990e12118c" />
 <img width="1920" height="1080" alt="Screenshot_20260621-200417" src="https://github.com/user-attachments/assets/ef862597-9258-4963-9de6-ba05d5354e3c" />
 <img width="1920" height="1080" alt="Screenshot_20260621-200423" src="https://github.com/user-attachments/assets/6a1d124c-25e0-432e-8963-d328bd866402" />
 <img width="1920" height="1080" alt="Screenshot_20260621-200434" src="https://github.com/user-attachments/assets/a38356b7-b407-4319-b642-dda348e4ea79" />
